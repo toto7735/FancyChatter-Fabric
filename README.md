@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# FancyChatter
 
-## Setup
+Mod introduced in https://youtu.be/1XKgeFwDfRA made by toto7735 with ❤
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This is Fabric Mod!
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+**Minecraft Version: 1.18.2**
