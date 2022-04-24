@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "fancychatter",
+  "version": "1.0.0",
+
+  "name": "Fancy Chatter",
+  "description": "This mod makes your chat fancy!",
+  "authors": [
+    "toto7735"
+  ],
+
+  "license": "CC0-1.0",
+  "icon": "assets/fancychatter/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.toto7735.fancychatter.FancyChatter"
+    ]
+  },
+  "mixins": [
+    "fancychatter.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
